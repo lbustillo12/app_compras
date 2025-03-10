@@ -1,6 +1,6 @@
 # app_compras
 
-A new Flutter project.
+Aplicacion movil de compras desarrollada en VS Code con el uso de Flutter.
 
 ## Getting Started
 
